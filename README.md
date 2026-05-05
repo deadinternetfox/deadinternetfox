@@ -30,7 +30,7 @@
 >
 > Web · Android · iOS · Windows · Linux · Docker.
 >
-> 🌐 [frogtalk.net](https://frogtalk.net) &nbsp;·&nbsp; 📥 [latest builds](https://github.com/deadinternetfox/frogtalk/releases/latest) &nbsp;·&nbsp; 🐳 `ghcr.io/deadinternetfox/frogtalk`
+> 🌐 [frogtalk.xyz](https://frogtalk.xyz) &nbsp;·&nbsp; 📥 [latest builds](https://github.com/deadinternetfox/frogtalk/releases/latest) &nbsp;·&nbsp; 🐳 `ghcr.io/deadinternetfox/frogtalk`
 
 [![FrogTalk repo card](https://github-readme-stats.vercel.app/api/pin/?username=deadinternetfox&repo=frogtalk&theme=dark&bg_color=0d1611&title_color=7fd2a7&icon_color=4caf50&text_color=cfeadb&border_color=3b6c59&hide_border=false)](https://github.com/deadinternetfox/frogtalk)
 
@@ -67,9 +67,9 @@ infrastructure  ▸  docker · ghcr · nginx · systemd · tor
 
 | | |
 |---|---|
-| 🌍 web | [frogtalk.net](https://frogtalk.net) |
+| 🌍 web | [frogtalk.xyz](https://frogtalk.xyz) |
 | 🐦 follow | [@deadinternetfox](https://github.com/deadinternetfox) |
-| 📬 chat | hop on [FrogTalk](https://frogtalk.net) and `@frog` |
+| 📬 chat | hop on [FrogTalk](https://frogtalk.xyz) and `@frog` |
 
 ---
 
